@@ -5,6 +5,12 @@ You can use this plugin to track history of user activity.  The plugin is
 is intended to be used in conjunction with other plugins and provides very
 limited capabilities by itself.
 
+You may also be interested in the
+`Inesonic Logger Plugin <https://github.com/tuxidriver/inesonic-logger>`
+which provides similar capabilities but geared towards logging for
+debug and development.  Both plugins were developed for the
+`Inesonic company website <https://inesonic.com>`.
+
 
 Supported Fields
 ================
